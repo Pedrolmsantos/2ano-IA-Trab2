@@ -1,0 +1,1 @@
+compilar: python3 projeto2.py
